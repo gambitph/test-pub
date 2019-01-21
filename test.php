@@ -1,3 +1,3 @@
 <?php
 
-var_dump( 'test - changed modified' );
+var_dump( 'fixed in master - changed modified' );
