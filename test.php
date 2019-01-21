@@ -1,3 +1,5 @@
 <?php
 
-var_dump( 'test - changed modified' );
+var_dump( 'test - branch' );
+
+var_dump( 'another from branch' );
